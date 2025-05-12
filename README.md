@@ -21,6 +21,7 @@ This is a backend service that provides information about countries, their borde
 ```bash
 git clone https://github.com/your-username/country-info-app.git
 cd country-info-app/backend
+```bash
 
 2. Install dependencies
 npm install
